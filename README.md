@@ -11,7 +11,6 @@ Official implementation of the paper:
 
 **scDistillOTC** is a lightweight generative model designed to predict cellular responses to perturbations at the single-cell level.  
 
----
 
 ## 📂 Usage
 
@@ -22,14 +21,12 @@ PBMC Data is available in the \data folder. A complete example is provided in [`
 - 🔮 Predicting perturbation responses for unseen cell types  
 - 📊 Visualization of results
 
----
 
 ## 📄 Documentation
 
 Full documentation and API reference will be available upon paper publication.  
 
 
----
 
 ## 🤝 Contributing
 
